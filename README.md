@@ -5,9 +5,7 @@ I created fadmin in order to manage and authenticate firebase auth based users f
 
 # Build & install
 
-```npm build```
-
-```npm install```
+```npm install -g```
 
 After running install fadmin command should be available in your system.
 
