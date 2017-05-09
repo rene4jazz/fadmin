@@ -1,5 +1,5 @@
 {
-   "credential": "File to Firebase credentials file",
+   "credential": "Path to Firebase credentials file",
    "databaseURL": "Project's database url"
 }
 
