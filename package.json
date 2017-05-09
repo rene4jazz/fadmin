@@ -1,0 +1,15 @@
+{
+  "name": "fadmin",
+  "version": "1.0.0",
+  "description": "Firebase ADMIN SDK CLI wrapper",
+  "bin": {
+    "fadmin": "src/index.js"
+  },
+  "author": "Rene Lopez <rene4jazz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "firebase": "^3.7.6",
+    "firebase-admin": "^4.2.1"
+  }
+}
