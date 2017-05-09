@@ -3,7 +3,7 @@ Firebase ADMIN SDK CLI wrapper based in NodeJS
 
 I created fadmin in order to manage and authenticate firebase auth based users from a PHP context. 
 
-#Build & install
+# Build & install
 
 ```npm build```
 
