@@ -1,5 +1,5 @@
 # fadmin
-Firebase ADMIN SDK CLI wrapper based in NodeJS
+Firebase ADMIN SDK CLI wrapper based on NodeJS
 
 I created fadmin in order to manage and authenticate firebase auth based users from a PHP context. 
 
